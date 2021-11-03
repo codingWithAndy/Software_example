@@ -1,0 +1,17 @@
+.container {
+    background-color: blue;
+    width: 980px;
+    margin: auto;
+}
+
+.header {
+    font-size: larger;
+    color: crimson;
+    background-color: white;
+}
+
+.left_panel {
+    float: left;
+    width: 20%;
+    background-color: cornflowerblue;
+}
